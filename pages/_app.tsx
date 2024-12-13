@@ -24,7 +24,7 @@ function BearBlogReplacementTemplate({ Component, pageProps }) {
         />
         <meta
           property="og:site_name"
-          content="Bear Blog Replacement Template"
+          content="Owens Little Site :)"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
