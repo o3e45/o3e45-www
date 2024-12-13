@@ -10,7 +10,6 @@ export default function Navbar() {
         <p>
           <Link href="/">Home</Link>
           <Link href="/blog/">Blog</Link>
-          </Link>
         </p>
       </nav>
     </header>
