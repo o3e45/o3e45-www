@@ -1,5 +1,5 @@
 ---
-title: A Holiday: A Poem Expressing My Inner Feelings and Expressions About Being Gay
+title: A Holiday; A Poem Expressing My Inner Feelings and Expressions About Being Gay
 
 publish_date: October 22nd, 2023 
 meta_description: Representing my deeper innermost thoughts. 
