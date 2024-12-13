@@ -2,7 +2,7 @@
 title: o3e45-wwww
 meta_description: Owens little site :)
 ---
-<img src="/b1-1.png />
+<img src="/b1-1.png" />
 
 I have over 1.8 years of experience in the Retail Industry and Customer Service-related opportunities, while having extensive knowledge of Business Application(s) and hold the ability to deploy them such as corporate wide firewalls to internal knowledge bases.
 
