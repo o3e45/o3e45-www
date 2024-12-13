@@ -17,3 +17,27 @@ Key Skills:
 • Cyber Security
 
 Currently experimenting/learning with or about cloud-wan solutions, multi-cloud application, Fortinet firewalls, Cisco networking, and others.
+<details open>
+<summary> Full Modeling Measurements </summary>
+
+- Bust/Chest: 29.5 in
+
+- Waist: 26 in
+
+- Hips: 32.5 in
+
+- Inseam: 27 in
+
+- Shoulders: 18 in
+
+- Arm Length: 22.5 in
+
+- Thighs/Calf: 17 in
+
+- Collar: 13 in
+
+- Suit Jacket: 36-38
+
+- Suit Pants: 28-30
+
+</details>
